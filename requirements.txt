@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+python-multipart 
+torchaudio 
+pyannote.audio 
+scipy
